@@ -8,5 +8,5 @@ ChangeLog
  
 ## [1.0.0]
 
-* 初始化版本
+* Init project.
  

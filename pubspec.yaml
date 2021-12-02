@@ -1,5 +1,5 @@
 name: voice_label
-description: A new Flutter widget.
+description: A new Flutter widget. A Label widget that can play audio.
 
 homepage: https://github.com/davidzou/flutter_widget_voice_label
 
