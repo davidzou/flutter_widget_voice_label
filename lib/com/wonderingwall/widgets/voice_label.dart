@@ -28,7 +28,8 @@ class VoiceLabel extends StatefulWidget {
     required this.assetPath,
     // this.icon,
     this.iconColor = Colors.amberAccent,
-    this.style = const TextStyle(color: Colors.black87, fontSize: 20.0, fontWeight: FontWeight.bold),
+    this.style = const TextStyle(
+        color: Colors.black87, fontSize: 20.0, fontWeight: FontWeight.bold),
   }) : super(key: key);
 
   /// 名词
